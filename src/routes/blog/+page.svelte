@@ -2,7 +2,10 @@
   export let data: { posts: { slug: string; title: string; date: string; tags: string[] }[] };
 </script>
 
-<h1>(atelier-kame 'blog)</h1>
+<h1>
+(atelier-kame 'code
+              'blog)
+</h1>
 
 <ul>
   {#each data.posts as p}
