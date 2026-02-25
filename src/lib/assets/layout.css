@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'PlemolJP';
-  src: url('/fonts/PlemolJP-Regular.woff2') format('woff2');
+  /* src: url('/fonts/PlemolJP-Regular.woff2') format('woff2'); */
+  src: url('/fonts/PlemolJPConsole-Regular.woff2') format('woff2');
   font-weight: 400; /* Regular */
   font-style: normal;
   font-display: swap;

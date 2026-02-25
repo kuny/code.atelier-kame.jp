@@ -21,5 +21,8 @@
 		"svelte-check": "^4.3.6",
 		"typescript": "^5.9.3",
 		"vite": "^6.2.0"
+	},
+	"dependencies": {
+		"gray-matter": "^4.0.3"
 	}
 }
