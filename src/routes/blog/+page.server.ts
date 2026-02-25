@@ -1,5 +1,5 @@
 import matter from "gray-matter";
-
+export const prerender = true;
 export type Post = {
   slug: string;
   title: string;

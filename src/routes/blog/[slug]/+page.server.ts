@@ -1,5 +1,6 @@
 import { error } from "@sveltejs/kit";
 import matter from "gray-matter";
+export const prerender = true;
 
 export const load = async ({ params }) => {
   const slug = params.slug;
