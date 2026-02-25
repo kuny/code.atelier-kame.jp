@@ -4,7 +4,7 @@
 
 <h1>
 (atelier-kame 'code
-              'blog)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'blog)
 </h1>
 
 <ul>
